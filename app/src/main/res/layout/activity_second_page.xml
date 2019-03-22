@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbackground"
+    tools:context=".Second_activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/ivwhere"
+            android:layout_width="wrap_content"
+            android:layout_height="226dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/shouldknow" />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="What is Street Food?"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
+            android:textColorLink="@color/colorAccent"
+            android:textSize="24dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Street food is ready-to-eat food or drink sold by a hawker, or vendor, in a street or other public place, such as at a market or fair. It is often sold from a portable food booth, food cart, or food truck and meant for immediate consumption. Some street foods are regional, but many have spread beyond their region of origin. Most street foods are classed as both finger food and fast food, and are cheaper on average than restaurant meals."
+            android:textColor="@color/colorAccent"
+            android:textColorLink="@color/colorAccent"
+            android:textSize="24dp" />
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="A Brief history of Street Foods in all over the world"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
+            android:textColorLink="@color/colorAccent"
+            android:textSize="24dp" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Street Food is a type of prepared food sold on the streets and other public places. It is usually cheaper food than one sold in restaurants and it can be sold from a kiosk, portable food booth, food cart or food truck. Food sold there can be of local character or some, almost universal, type of food like hot dogs, burgers and such. Food and Agriculture Organization of the United Nations performed a study in 2007 that showed that some 2.5 billion people in the world eat street food every day. "
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:textColorLink="@color/colorAccent"
+            android:textSize="24dp" />
+
+
+        <Button
+            android:id="@+id/btnstart2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NEXT PAGE"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="24sp"/>
+
+
+    </LinearLayout>
+</ScrollView>

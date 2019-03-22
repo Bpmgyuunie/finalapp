@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/mainbackground"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".third_activity">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical">
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:orientation="vertical">
+
+         <ImageView
+             android:layout_width="358dp"
+             android:layout_height="224dp"
+             android:layout_alignParentTop="true"
+             android:layout_gravity="center"
+             android:foregroundGravity="center"
+             android:src="@drawable/what" />
+
+
+         <ImageView
+             android:layout_width="364dp"
+             android:layout_height="155dp"
+             android:layout_gravity="center"
+             android:layout_marginTop="10dp"
+             android:foregroundGravity="center"
+             android:src="@drawable/foodbuddy" />
+
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="94dp"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="ISAW"
+             android:textColor="@color/colorAccent"
+             android:textSize="50dp" />
+
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="Isaw is a street food from the Philippines, made from barbecued pig or chicken intestines. The intestines are cleaned, turned inside out, and cleaned again, repeating the process several times; they are then either boiled, then grilled, or immediately grilled on sticks."
+             android:textColor="@color/colorAccent"
+             android:textSize="24dp" />
+
+      </LinearLayout>
+
+      <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:layout_gravity="center"
+       android:layout_marginTop="20dp">
+
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:text="KWEK-KWEK"
+          android:textSize="50dp"
+          android:textColor="@color/colorAccent"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="match_parent"
+          android:text="Kwek kwek are quail eggs that are coated in an orange colored better, and deep fried, You'll notice them by their bright orange color and almost ping pong ball appearance."
+          android:textSize="24dp"
+          android:textColor="@color/colorAccent"/>
+
+   </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:layout_marginTop="20dp"
+          android:orientation="vertical">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="FISH BALLS"
+             android:textSize="50dp"
+             android:textColor="@color/colorAccent"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="Possibly one of the most beloved Filipino street food snacks, especially among kids in Davao City, it is what we calleed Fried balls and nowadays fried chicken balls as well. Its has little meat in the balls and has quite a lot of flour. The balls are deep fried, and the deep fried and in Davao City you just grab a skewer and poke them right out of the oil, dip them into chili-onion-vinegar, and eat."
+             android:textSize="24dp"
+             android:textColor="@color/colorAccent"/>
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:layout_marginTop="20dp"
+          android:orientation="vertical">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="PALABOK"
+             android:textSize="50dp"
+             android:textColor="@color/colorAccent"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="Palabok is one of most common of all Filipino noodle dishes, and it’s a popular Filipino street food snack that you’ll find throughout Manila. Rice noodles make the base of this dish, and a thick sauce that’s made from shrimp, minced pork, and fried pork skin (chicharon) is placed on top."
+             android:textSize="24dp"
+             android:textColor="@color/colorAccent"/>
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:layout_marginTop="20dp"
+          android:orientation="vertical">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="BUKO JUICE"
+             android:textSize="50dp"
+             android:textColor="@color/colorAccent"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="Buko is the name for young coconuts. Although there are a near endless amount of ways to use a coconut in cooking, one of the best and simplest is to just slice it open and drink the water and eat the young coconut meat."
+             android:textSize="24dp"
+             android:textColor="@color/colorAccent"/>
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:layout_marginTop="20dp"
+          android:orientation="vertical">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="TAHO"
+             android:textSize="50dp"
+             android:textColor="@color/colorAccent"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="Taho is the Philippines version of soft silken tofu (douhua), which has Chinese origins and is popular throughout Southeast Asia. The tofu is usually sweetened with a sugary syrup, and served in a cup to eat."
+             android:textSize="24dp"
+             android:textColor="@color/colorAccent"/>
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:layout_marginTop="20dp"
+          android:orientation="vertical">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="BALUT"
+             android:textSize="50dp"
+             android:textColor="@color/colorAccent"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="It’s a snack that’s readily available, and very popular to eat, especially in the evening. In order to eat balut, you crack a small hole at the top of the shell, and first drink out the chicken soup. You can then peel the rest of the egg, season with salt and vinegar, and eat the embryo and yolk."
+             android:textSize="24dp"
+             android:textColor="@color/colorAccent"/>
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:layout_marginTop="20dp"
+          android:orientation="vertical">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="KIKIAM"
+             android:textSize="50dp"
+             android:textColor="@color/colorAccent"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="Kikiam or Quekiam is another popular street food in the Philippines usually sold by street vendors pushing wooden carts equipped with deep frying woks. Usually sold together with fish balls it is also served with three kinds of dipping sauce which are: spicy vinegar, sweet brown gravy and sweet and spicy brown gravy. "
+             android:textSize="24dp"
+             android:textColor="@color/colorAccent"/>
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:layout_marginTop="20dp"
+          android:orientation="vertical">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="DYNAMITE"
+             android:textSize="50dp"
+             android:textColor="@color/colorAccent"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="Dynamite is a delicious snack that is often found being sold by some street food carts. Served with a side of ketchup or sweet chili sauce, dynamite gets its heat and incredible lip-smacking goodness from long green finger chilies, which have just the right amount of spice for those who like it hot, and serve as a great intro to the spicy side of snacking for those who are just learning to love spicier cuisine. "
+             android:textSize="24dp"
+             android:textColor="@color/colorAccent"/>
+
+      </LinearLayout>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:layout_marginTop="20dp"
+          android:orientation="vertical">
+
+         <TextView
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_gravity="center"
+             android:gravity="center"
+             android:text="SIOMAI"
+             android:textSize="50dp"
+             android:textColor="@color/colorAccent"/>
+
+         <TextView
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:text="Of all street food in the Philippines Siomai is as close to most Filipino favorite as it gets. It is basically a small ball of pork or beef covered in a light filo style pastry and steamed. Then on the street served up in little trays with a choice of  chili sauce,  light sauce and soy sauce."
+             android:textSize="24dp"
+             android:textColor="@color/colorAccent"/>
+
+      </LinearLayout>
+
+
+      <ImageView
+          android:id="@+id/ivImage"
+          android:layout_width="match_parent"
+          android:layout_height="200dp"
+          android:layout_marginTop="100dp"
+          android:src="@drawable/linkk" />
+
+   </LinearLayout>
+</ScrollView>
